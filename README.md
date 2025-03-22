@@ -10,7 +10,7 @@
 Acesse: 
 <a href="https://www.instagram.com/lecfranca.ti/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
+</a>&nbsp
 <a href="https://www.linkedin.com/in/luis-eduardo-7481381a2">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

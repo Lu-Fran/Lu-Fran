@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá, me chamo Luís França 👋
 
-<!--
-**Lu-Fran/Lu-Fran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/> Dev Python pleno - **LF Technology Information**
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> **Robotic Process Automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> **HTML e CSS**
+
+## Redes sociais
+Acesse: 
+<a href="https://www.instagram.com/lecfranca.ti/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/luis-eduardo-7481381a2">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+    
+
+
+
+
+      
+          

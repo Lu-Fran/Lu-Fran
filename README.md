@@ -1,4 +1,4 @@
-## Olá, eu me chamo Luís França 👋
+## Olá, seja bem vindo! 👋
 
 <img width="40" heigth="40" src="https://github.com/user-attachments/assets/67da4173-f212-4338-b035-65a7760e9fcb"/> **Dev Python pleno** - LF Technology Information
 
